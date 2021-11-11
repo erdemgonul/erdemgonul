@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently writing on **React** and **Vue**
 
-- 👨‍💻 All of my projects are available at [erdemgonul.com/projelerim](erdemgonul.com/projelerim)
+- 👨‍💻 All of my projects are available at [erdemgonul.com/projelerim](https://www.erdemgonul.com/projelerim)
 
 - 📝 I regularly write articles on [https://erdemgonul.medium.com/](https://erdemgonul.medium.com/)
 
