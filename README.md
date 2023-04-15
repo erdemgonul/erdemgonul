@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Erdem</h1>
-<h3 align="center">A new grad frontend developer on modern tech stacks</h3>
+<h3 align="center">A frontend developer on modern tech stacks</h3>
 
 - 🔭 I’m currently working on **Trendyol**
 
-- 🌱 I’m currently writing on **React** and **Vue**
+- 🌱 I’m currently writing  **React** and **Vue**
 
 - 👨‍💻 All of my projects are available at [erdemgonul.com](https://www.erdemgonul.com)
 
